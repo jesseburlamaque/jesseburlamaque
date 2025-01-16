@@ -11,8 +11,8 @@ languages = ["Python", "JavaScript", "SQL"]
 
 tech = ["GIS", "RS", "QGIS", "ArcGIS", "GEE","databases", "analytics", "Drone", "GNSS"]
 
-interests = ["open source", "Big Data", "Spatial Data Science", "Carbon Market", "ESG", "self development", 
-            "cooking", "productivity tools", "remixes of songs"]
+interests = ["open source", "Big Data", "Spatial Data Science", "Carbon Market", "ESG",  
+            "productivity tools", "remixes of songs"]
 
 def beAlive(self):
   do([assignments, projects], languages);
