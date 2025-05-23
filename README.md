@@ -4,7 +4,7 @@
 
 Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working at the intersection of spatial analysis, biomass estimation, and LULUCF assessment, supporting REDD+ projects, deforestation monitoring, and carbon strategies across the Brazilian Amazon.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseburlamaque&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseburlamaque&layout=compact)
 
 ---
 
