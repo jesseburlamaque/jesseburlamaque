@@ -18,8 +18,8 @@ Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working a
 
 ## 🎓 Academic Background
 
-- **B.Sc. in Geography** – Federal University of Amazonas (**UFAM**) - Manaus-AM  
-- **M.Sc. in Tropical Forest Sciences** – National Institute for Amazonian Research (**INPA**) - Manaus-AM  
+- **B.Sc. in Geography** – Federal University of Amazonas (**UFAM**) - Manaus-AM, Brazil  
+- **M.Sc. in Tropical Forest Sciences** – National Institute for Amazonian Research (**INPA**) - Manaus-AM, Brazil
 
 ---
 
