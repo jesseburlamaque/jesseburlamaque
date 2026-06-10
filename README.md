@@ -30,3 +30,7 @@ Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working a
 - **Remote Sensing & Field Tools**: `Google Earth Engine`, `GNSS`, `Drones`, `LiDAR`
 - **Data & Analysis**: `Pandas`, `GeoPandas`, `NumPy`, `Matplotlib`, `lidR`, `ggplot2`
 - **Version Control & Collaboration**: `Git`, `GitHub`, `Jupyter Notebooks`
+
+## ✍️ Blog Posts
+- **[Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce](https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/)** — *Towards Data Science*  
+  Practical strategies for building reliable geospatial classifiers when labelled samples are limited — applied to forest cover mapping in the Brazilian Amazon.
