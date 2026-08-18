@@ -1,4 +1,4 @@
-## 👋 Welcome
+## Welcome
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jesseburlamaque/?locale=en_US)
 
@@ -6,14 +6,14 @@ Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working a
 
 ---
 
-## 🎓 Academic Background
+## Academic Background
 
 - **B.Sc. in Geography** – Federal University of Amazonas (**UFAM**) - Manaus-AM, Brazil  
 - **M.Sc. in Tropical Forest Sciences** – National Institute for Amazonian Research (**INPA**) - Manaus-AM, Brazil
 
 ---
 
-## 🧰 Technical Proficiencies
+## Technical Proficiencies
 
 - **Programming & Scripting**: `R`, `Python`, `JavaScript`, `SQL`
 - **Geospatial Platforms**: `QGIS`, `ArcGIS`, `PostGIS`
@@ -21,6 +21,6 @@ Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working a
 - **Data & Analysis**: `Pandas`, `GeoPandas`, `NumPy`, `Matplotlib`, `lidR`, `ggplot2`
 - **Version Control & Collaboration**: `Git`, `GitHub`, `Jupyter Notebooks`
 
-## ✍️ Blog Posts
+## Blog Posts
 - **[Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce](https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/)** — *Towards Data Science*  
   Practical strategies for building reliable geospatial classifiers when labelled samples are limited — applied to forest cover mapping in the Brazilian Amazon.
