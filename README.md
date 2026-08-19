@@ -4,8 +4,14 @@
 
 Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working at the intersection of spatial analysis, biomass modelling, and LULUCF assessment, supporting REDD+ projects, deforestation monitoring, and carbon strategies across the Brazilian Amazon.
 
-<img height="180em" src="https://github-readme-stats-lilac-ten-83.vercel.app/api?username=jesseburlamaque&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-lilac-ten-83.vercel.app/api/top-langs/?username=jesseburlamaque&layout=compact&theme=dracula"/>
+<table>
+  <tr>
+    <!--
+    <td><img src="https://github-readme-stats-lilac-ten-83.vercel.app/api?username=jesseburlamaque&show_icons=true&theme=dracula&cache_bust=1" width="100%"/></td>
+    -->
+    <td><img src="https://github-readme-stats-lilac-ten-83.vercel.app/api/top-langs/?username=jesseburlamaque&layout=compact&theme=dracula&cache_bust=1" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
