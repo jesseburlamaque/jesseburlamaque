@@ -9,7 +9,7 @@ Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working a
     <!--
     <td><img src="https://github-readme-stats-lilac-ten-83.vercel.app/api?username=jesseburlamaque&show_icons=true&theme=dracula&cache_bust=1" width="100%"/></td>
     -->
-    <td><img src="https://github-readme-stats-lilac-ten-83.vercel.app/api/top-langs/?username=jesseburlamaque&layout=compact&theme=dracula&cache_bust=1" width="100%"/></td>
+    <td><img src="https://github-readme-stats-lilac-ten-83.vercel.app/api/top-langs/?username=jesseburlamaque&layout=compact&theme=dracula&cache_bust=1" width="450"/></td>
   </tr>
 </table>
 
