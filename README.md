@@ -26,6 +26,12 @@ Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working a
 - **Data & Analysis**: `Pandas`, `GeoPandas`, `NumPy`, `Matplotlib`, `lidR`, `ggplot2`
 - **Version Control & Collaboration**: `Git`, `GitHub`, `Jupyter Notebooks`
 
+## Omarchy Plugins (Archlinux+Hyprland)
+- **[omarchy-find](https://github.com/jesseburlamaque/omarchy-find)** — *A fast, elegant, keyboard-driven universal file search and quick launcher for the Omarchy shell on Linux*
+- **[herald-notification](https://github.com/jesseburlamaque/herald-notification)** — *A clean notification center for Omarchy with themed icons, focus actions*
+
+## QGIS Plugins
+
 ## Blog Posts
 - **[Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce](https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/)** — *Towards Data Science*  
   Practical strategies for building reliable geospatial classifiers when labelled samples are limited — applied to forest cover mapping in the Brazilian Amazon.
