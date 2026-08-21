@@ -28,6 +28,7 @@ Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working a
 
 ## Omarchy Plugins (Archlinux+Hyprland)
 - **[omarchy-find](https://github.com/jesseburlamaque/omarchy-find)** — *A fast, elegant, keyboard-driven universal file search and quick launcher for the Omarchy shell on Linux*
+- **[antigravity-usage](https://github.com/jesseburlamaque/antigravity-usage)** — *Google Antigravity usage stats, prompt telemetry, and active session monitor widget for Omarchy*
 - **[herald-notification](https://github.com/jesseburlamaque/herald-notification)** — *A clean notification center for Omarchy with themed icons, focus actions*
 
 ## QGIS Plugins
