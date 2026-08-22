@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jesseburlamaque/?locale=en_US)
 
-Hi, I’m **Jessé Burlamaque** — a geographer and forest researcher working at the intersection of spatial analysis, biomass modelling, and LULUCF assessment, supporting REDD+ projects, deforestation monitoring, and carbon strategies across the Brazilian Amazon.
+Hi, I’m a geographer and forest researcher working at the intersection of spatial analysis, biomass modelling, and LULUCF assessment, supporting REDD+ projects, deforestation monitoring, carbon strategies  and climate adaptation across the Brazilian Amazon..... and I occasionally tinker with Linux and open-source tools.
 
 <!--
 <img src="https://github-readme-stats-lilac-ten-83.vercel.app/api?username=jesseburlamaque&show_icons=true&theme=dracula&cache_bust=1" width="450"/>
